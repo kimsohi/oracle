@@ -12,3 +12,5 @@ FROM EMP;
 -- EMPNO : 직원번호, ENAME : 직원이름, JOB : 담당업무
 -- MGR : 상위 담당자, HIREDATE : 입사일자, SAL : 급여
 -- COMM : 상여금, DEPTNO : 부서번호 
+
+
