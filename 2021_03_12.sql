@@ -1,4 +1,3 @@
-
 -- sem 계정에 있는 prod 테이블의 모든 컬럼을 조회하는 SELECT쿼리(SQL) 작성
 SELECT *
 FROM prod;
