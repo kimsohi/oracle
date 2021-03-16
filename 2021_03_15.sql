@@ -277,4 +277,8 @@ emp테이블에서 job이 SALESMAN 이거나 사원번호가 78로 시작하는 
 SELECT *
 FROM emp
 WHERE job = 'SALESMAN'
-   OR empno BETWEEN 7800 AND 7899 ;
+   OR empno = 78 
+   OR empno BETWEEN 781 AND 789
+   OR empno BETWEEN 7800 AND 7899;
+   
+   
